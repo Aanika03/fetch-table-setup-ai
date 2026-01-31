@@ -1,0 +1,23 @@
+{
+  "task_name": "Setup the Table",
+  "objective": "Arrange tableware neatly on the table",
+  "steps": [
+    "Navigate to the table",
+    "Scan table surface and surrounding objects",
+    "Pick up plates and place them on the table",
+    "Pick up cups and place them near plates",
+    "Pick up utensils and align them correctly",
+    "Adjust placement for neat arrangement",
+    "Verify table setup completion"
+  ],
+  "constraints": [
+    "Avoid collisions",
+    "Handle fragile objects carefully",
+    "Maintain stable grasp"
+  ],
+  "completion_criteria": [
+    "All tableware placed on table",
+    "Items neatly aligned",
+    "No objects dropped or misplaced"
+  ]
+}
